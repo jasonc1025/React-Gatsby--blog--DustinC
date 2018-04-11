@@ -132,14 +132,14 @@ class BlogHeader extends Component {
         <Name className="name">
           <StyledLink to="/">
             <First>
-              {'Dustin'.split('').map((letter, index) =>
+              {'Full-Stack'.split('').map((letter, index) =>
                 <Letter key={`${letter}-${index}`}>
                   {letter}
                 </Letter>
               )}
             </First>
             <Last>
-              {'Schau'.split('').map((letter, index) =>
+              {'Web'.split('').map((letter, index) =>
                 <Letter key={`${letter}-${index}`}>
                   {letter}
                 </Letter>

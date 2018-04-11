@@ -64,7 +64,7 @@ const Description = styled.p`
 export default function About() {
   return (
     <Container>
-      <Image src={me} />
+      {/* <Image src={me} /> */}
       <Details>
         <Name>
           Full-Stack <Last>Web Dev</Last>
