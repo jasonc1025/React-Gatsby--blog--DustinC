@@ -1,9 +1,9 @@
 {
-  "name": "@dschau/blog",
-  "description": "Dustin Schau's personal blog",
+  "name": "@full-stack-web-dev/blog",
+  "description": "Full-Stack Web Dev's Blog",
   "version": "1.0.0",
   "private": true,
-  "author": "Dustin Schau <dustinschau@gmail.com>",
+  "author": "Full-Stack Web Dev",
   "dependencies": {
     "@dschau/particles.js": "2.0.0",
     "gatsby": "1.9.186",

@@ -1,16 +1,16 @@
 module.exports = {
   pathPrefix: `/`,
   siteMetadata: {
-    title: `Dustin Schau - Blog`,
-    author: `Dustin Schau`,
+    title: `Full-Stack Web Dev - Blog`,
+    author: `Full-Stack Web Dev`,
   },
   plugins: [
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: `Dustin Schau's Blog`,
-        description: 'The blog of the developer, Dustin Schau',
-        short_name: 'DSchau Blog',
+        name: `Full-Stack Web Dev's Blog`,
+        description: 'The blog of the developer, Full-Stack Web Dev',
+        short_name: 'Full-Stack Web Dev Blog',
         background_color: 'white',
         theme_color: '#002635',
         orientation: 'portrait',

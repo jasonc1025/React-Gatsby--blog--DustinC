@@ -94,7 +94,7 @@ export default function BlogPost({ data = {}, location, pathContext }) {
 
   return (
     <Container>
-      <Helmet title={`Dustin Schau - ${post.frontmatter.title}`} meta={meta} />
+      <Helmet title={`Full-Stack Web Dev - ${post.frontmatter.title}`} meta={meta} />
       <Post
         className="blog-post"
         html={post.html}

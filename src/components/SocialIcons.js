@@ -20,9 +20,9 @@ const SocialContainer = styled.div`
 export default function Social(props) {
   return (
     <SocialContainer {...props}>
-      <SocialButton className="button" type="git" {...props} />
+      {/*[jwc] <SocialButton className="button" type="git" {...props} />
       <SocialButton className="button" type="twitter" {...props} />
-      <SocialButton className="button" type="facebook" {...props} />
+      <SocialButton className="button" type="facebook" {...props} /> */}
     </SocialContainer>
   )
 }

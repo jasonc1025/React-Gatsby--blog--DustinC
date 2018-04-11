@@ -67,11 +67,11 @@ export default function About() {
       <Image src={me} />
       <Details>
         <Name>
-          Dustin <Last>Schau</Last>
+          Full-Stack <Last>Web Dev</Last>
         </Name>
         <Description>
-          Front-end development is my passion, and I am incredibly lucky to be
-          able to <strong>love</strong> what I do each and every day.
+          Full-stack Web Development is our passion, and we am incredibly lucky to be
+          able to <strong>love</strong> what we do each and every day.
         </Description>
       </Details>
       <SocialIcons />
